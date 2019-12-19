@@ -1,0 +1,1 @@
+print(f'inside test import.py : {__name__}')
